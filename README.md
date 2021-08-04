@@ -45,4 +45,3 @@
 
 <p><h4>Enjoy it!! o/</p>
 
-  ![Snake animation](https://github.com/inseotn/inseotn/blob/output/github-contribution-grid-snake.svg)
