@@ -20,17 +20,16 @@
    <br>
    <br>
   
-
-
+<div>
   <img align="center" alt="Ingrid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ingrid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ingrid-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
+</div>
 
  <br>
  <br>
-   <br>
-   <br>
+ <br>
+   
 
  
   <a href="https://discord.gg/Inse#1916" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -47,5 +46,5 @@
  <br> <br>
  Thanks for visiting.
  <br> <br>
- Enjoy it!! o/</h4>
+ Enjoy it!! o/
 
