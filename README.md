@@ -1,9 +1,9 @@
 <h1> 
-  Hi there, Ingrid speaking 👋 
+  Hi there, Ingrid speaking 👋  
 </h1>
   
   
-  <h4>
+
   
  🤓I'm Game Development Jr.
   <br> <br>
