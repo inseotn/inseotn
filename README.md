@@ -2,12 +2,17 @@
   
   
   
-   <p><h4>🤓I'm Game Development Jr.</p>
-   <p><h4> 🎨 Licentiate degree Visual Arts and Museology Management </p>
-   <p><h4> 🎮 I’m interested in game development, GDD and Q.A</p>
-  <p><h4> 🐶🐮 I love animals </p>
-  <p><h4> 🍟 My favorite food is potatoes</p>
-  <p><h4> 📚 When I am not playing games I like ready adventure and horror books </p>
+  <h4>🤓I'm Game Development Jr.
+  <br> <br>
+ 🎨 Licentiate degree Visual Arts and Museology Management 
+  <br> <br>
+ 🎮 I’m interested in game development, GDD and Q.A
+  <br> <br>
+ 🐶🐮 I love animals
+  <br> <br>
+  🍟 My favorite food is potatoes
+  <br> <br>
+ 📚 When I am not playing games I like ready adventure and horror books 
 
    <br>
    <br>
@@ -21,6 +26,8 @@
 
  <br>
  <br>
+   <br>
+   <br>
 
  
   <a href="https://discord.gg/Inse#1916" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -34,8 +41,8 @@
  <img src="https://aleen42.github.io/badges/src/dreamweaver.svg">
 
  
-
-<p><h4> Thanks for visiting.</p>
-
-<p><h4>Enjoy it!! o/</p>
+ <br> <br>
+ Thanks for visiting.
+ <br> <br>
+ Enjoy it!! o/</h4>
 
