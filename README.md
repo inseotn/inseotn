@@ -1,8 +1,11 @@
-<h1> Hi there, Ingrid speaking 👋  </h1>
+<h1> 
+  Hi there, Ingrid speaking 👋 
+</h1>
   
   
+  <h4>
   
-  <h4>🤓I'm Game Development Jr.
+ 🤓I'm Game Development Jr.
   <br> <br>
  🎨 Licentiate degree Visual Arts and Museology Management 
   <br> <br>
