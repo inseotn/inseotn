@@ -12,8 +12,6 @@
   <br> <br>
  🎨 Licentiate degree Visual Arts and Museology Management 
   <br> <br>
-  🖥️ Game development student
-  <br><br>
  🎮 I’m interested in game development, Screenplay and Q.A
   <br> <br>
  🐶🐮 I love animals
