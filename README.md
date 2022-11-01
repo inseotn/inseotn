@@ -6,19 +6,19 @@
 
   
  
- 🗂️ I'm Associate Producer in Webcore Games
+ 🗂️ I'm Associate Producer in Webcore
  <br><br>
- 🤓 I'm Game Development Student.
+ 🤓 I'm Project Management Student
   <br> <br>
  🎨 Licentiate degree Visual Arts and Museology Management 
   <br> <br>
- 🎮 I’m interested in game development, Screenplay and Q.A
+ 🎮 I’m interested in game development and Screenplay
   <br> <br>
  🐶🐮 I love animals
   <br> <br>
   🍟 My favorite food is potatoes
   <br> <br>
- 📚 When I am not playing games I like ready adventure and horror books 
+ 📚 When I am not playing games I like ready adventure and horror books.
 
    <br>
    <br>
